@@ -1,5 +1,11 @@
 ## Sobre mim
 
+Profile:I am a logical person and I learn very fast
+My passion: I love solving complex problems using math && computer science.
+Skills: Python, Database, Java
+My "Friendly" hobby totally made by me: www.desportovirtual.com
+The World is so cool with algorithms
+
 You can use the [editor on GitHub](https://github.com/AndreRibau1/profile/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
