@@ -3,6 +3,9 @@
 I am a logical person and I learn very fast. My passion is solving complex problems using math and computer science. My skills are Python, Database, Java. My friendly hobby totally made by me is www.desportovirtual.com. 
 The World is so cool with algorithms
 
+# Technologies that i work
+
+Django, Spring, Selenium
 
 # Experience
 
