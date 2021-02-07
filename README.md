@@ -3,7 +3,6 @@
 I am a logical person and I learn very fast. My passion is solving complex problems using math and computer science. My skills are Python, Database, Java. My friendly hobby totally made by me is www.desportovirtual.com. 
 The World is so cool with algorithms
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
