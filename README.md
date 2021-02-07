@@ -36,23 +36,14 @@ firm. Here I am learning the Java language in backend and frontend. I am
 developing through the Springboot framework in Intellij using the REST
 architecture. I will do automated tests on Selenium.
 ```
+### Process Engineer in Mistolin Company S.A (my full-time job)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+(Python, Django, Power Query, Excel) Since February 2020 to the present
+Optimization of industrial processes and obtaining data in order to analyze the
+impact of these improvements. Construction of algorithms in order to create an
+intelligent system of analysis and management in order to understand which
+problems are working.
 ```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
