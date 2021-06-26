@@ -5,7 +5,7 @@ The World is so cool with algorithms
 
 # Technologies that i work
 
-Django, Spring, Selenium
+Java, Spring, Javascript
 
 # Experience
 
