@@ -9,16 +9,7 @@ Java, Spring, Javascript
 
 # Experience
 
-### FOUNDER & C.E.O in Innovating4u Company (my part-time freelancing)
 
-```markdown
-Creation of websites and applications. Here is a short description of the projects
-I carried out and the technologies used and the duration of each project
-- www.desportovirtual.com (Mobirise, Javascript, Angular, Jquery) since January
-2019 to December 2020.
-In this project I developed the front-end part and a little bit of the back-end part
-as functions and commands. This whole project was developed by me including
-the 3D creations I made in blender
 
 - www.dropereira.pt (MySQL,SQL, Opencart, Javascript) – Since June 2019 to
 November 2019
